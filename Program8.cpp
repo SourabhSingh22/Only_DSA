@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+// Sum of all natural number:-
+
 int funSum(int n){
     if(n<=0){
         return 0;

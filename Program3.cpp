@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
 
+// Check is Prime or not:-
+// Time complexity is:- O(1)
+
 void isPrime(int n){
     if(n == 1){
         cout<<"it is not prime";

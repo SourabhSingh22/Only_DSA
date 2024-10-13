@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+// Recursion function:-
+
 void recursion(int n){
     if(n<=0){
         return;

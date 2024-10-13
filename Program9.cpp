@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+// Sum of n fibonacci number:-
+
 int fibo(int n){
     int f[n+1];
 
